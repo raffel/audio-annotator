@@ -1,0 +1,20 @@
+{
+  "name": "audio-annotator",
+  "version": "0.0.1",
+  "description": "A JavaScript interface for annotating and labeling audio files",
+  "author": "",
+	"licenses": [{
+    "type": "BSD-2",
+    "url": "LICENSE.txt"
+  }],
+  "bugs": {
+    "url": "https://github.com/raffel/audio-annotator/issues"
+  },
+	"keywords" : [
+    "audio-annotator"
+  ],
+  "homepage": "https://github.com/raffel/audio-annotator#readme",
+  "files": [
+    "static"
+  ]
+}
